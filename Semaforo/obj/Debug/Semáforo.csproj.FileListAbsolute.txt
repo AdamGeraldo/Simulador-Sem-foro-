@@ -1,0 +1,10 @@
+C:\Users\Andy\source\repos\Simulador Semáforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\Andy\source\repos\Simulador Semáforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\Andy\source\repos\Simulador Semáforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\Andy\source\repos\Simulador Semáforo\Semaforo\obj\Debug\Semáforo.csproj.AssemblyReference.cache
+C:\Users\Andy\source\repos\Simulador Semáforo\Semaforo\obj\Debug\Semáforo.Semáforo.resources
+C:\Users\Andy\source\repos\Simulador Semáforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\Andy\source\repos\Simulador Semáforo\Semaforo\obj\Debug\Semáforo.csproj.GenerateResource.cache
+C:\Users\Andy\source\repos\Simulador Semáforo\Semaforo\obj\Debug\Semáforo.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\Simulador Semáforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\Andy\source\repos\Simulador Semáforo\Semaforo\obj\Debug\Semaforo.pdb
